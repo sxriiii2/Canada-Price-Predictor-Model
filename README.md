@@ -52,17 +52,17 @@ Before you can use this price predictor model, make sure you have the following 
       pip install -r requirements.txt
 
 
-###Usage
+### Usage
 -Run the Canada Price Predictor Model:
 -Follow the on-screen instructions to input property details and get price predictions.
 -Explore the provided data analysis and visualization tools to gain insights into the factors affecting property prices.
 
 
 
-###Contributing
+### Contributing
 -Contributions to this project are welcome! If you'd like to add features, improve documentation, or fix issues, please fork the repository and create a pull request.
 -For major changes, please open an issue first to discuss what you would like to change.
 
 
-###License
+### License
 -This project is licensed under the MIT License. Feel free to use, modify, or distribute this code for your purposes.
